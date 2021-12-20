@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guvi_6_React/static/css/main.073c9b0a.css",
+    "main.js": "/Guvi_6_React/static/js/main.2ce202a1.js",
+    "static/js/787.04f9b8d2.chunk.js": "/Guvi_6_React/static/js/787.04f9b8d2.chunk.js",
+    "index.html": "/Guvi_6_React/index.html",
+    "main.073c9b0a.css.map": "/Guvi_6_React/static/css/main.073c9b0a.css.map",
+    "main.2ce202a1.js.map": "/Guvi_6_React/static/js/main.2ce202a1.js.map",
+    "787.04f9b8d2.chunk.js.map": "/Guvi_6_React/static/js/787.04f9b8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ce202a1.js"
+  ]
+}
